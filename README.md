@@ -9,7 +9,6 @@ Aqui tenemos la imagen de la interfaz principal.
 
 
 La ventana de dialogo que posee el conversor de temperaturas.
-![conversorTemperaruta]()
 <div style="text-align: center;">
   <img src="data/imagenesSistema/conversorTemperatura.png">
 </div>
@@ -17,8 +16,12 @@ La ventana de dialogo que posee el conversor de temperaturas.
 
 
 La ventana que posee el conversor de divisas.
-![conversorMonedas](data/imagenesSistema/conversorMonedas.png)
+<div style="text-align: center;">
+  <img src="data/imagenesSistema/conversorMonedas.png">
+</div>
 
 
 La interfaz grafica tiene la siguiente estrucura.
-![Ejemplo de imagen](data/diagramasUML/interfaz.png)
+<div style="text-align: center;">
+  <img src="data/diagramasUML/interfaz.png)">
+</div>
