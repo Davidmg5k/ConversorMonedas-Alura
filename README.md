@@ -20,3 +20,13 @@ La interfaz grafica tiene la siguiente estrucura.
 <div style="text-align: center;">
   <img src="data/diagramasUML/interfaz.png">
 </div>
+
+De igual forma que la interfaz grafica, el mundo tambien tiene su diagrama UML que representa la estructura del codigo hecho en ese paquete.
+<div style="text-align: center;">
+  <img src="data/diagramasUML/mundo.png">
+</div>
+
+Para las pruebas tambien se trabaja con el diagrama UML
+<div style="text-align: center;">
+  <img src="data/diagramasUML/pruebas.png">
+</div>
